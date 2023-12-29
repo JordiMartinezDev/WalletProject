@@ -1,0 +1,51 @@
+{
+	"compiler": {
+		"version": "0.8.22+commit.4fc1097e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/AbiEncodeLearning.sol": "AbiEncodeLearning"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/AbiEncodeLearning.sol": {
+			"keccak256": "0x5cd21e91900c3ece5afd0bfade8b1d865ad1df49c849543e15f91ef90c3c3ea4",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://a15b8ac9b595e7ab9c919b707c8e867da5232c5f9faa8bcca922944b817fe19d",
+				"dweb:/ipfs/Qmeaz2arJXrjEdpSKtC784hxqp4m4T32T4tKimo9ymgXh5"
+			]
+		}
+	},
+	"version": 1
+}
